@@ -1,0 +1,12 @@
+{
+  "require-dev": {
+    "mikey179/vfsstream": "1.1.*",
+    "phpunit/phpunit": "^7.1",
+    "squizlabs/php_codesniffer": "*",
+    "codeception/codeception": "*",
+    "codeception/module-asserts": "*",
+    "codeception/module-phpbrowser": "*",
+    "codeception/module-rest": "*",
+    "codeception/module-webdriver": "*"
+  }
+}

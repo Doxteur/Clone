@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ruleset name="SioVhb">
+  <description>Coding standard for auto-documenting code</description>
+
+  <!-- Classes and functions should be commented -->
+  <rule ref="PEAR.Commenting.ClassComment"/>
+  <rule ref="PEAR.Commenting.FunctionComment"/>
+  <rule ref="Squiz.Commenting.FunctionCommentThrowTag"/>
+
+</ruleset>

@@ -1,0 +1,7 @@
+nbproject/
+vendor/
+tests/_output/*
+tests/_support/_generated/*
+tests/_data/*
+*.log
+composer.lock
